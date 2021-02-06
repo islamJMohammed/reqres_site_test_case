@@ -1,0 +1,2 @@
+
+print "Hi, Islam Mohammad"
